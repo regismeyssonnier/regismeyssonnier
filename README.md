@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Langage ЯRM](https://github.com/regismeyssonnier/Langage-RM)
 
-<h3 align="left">Connect with me: regismeyssonnier@gmail.com</h3>
+<h3 align="left">Connect with me: regis.meyssonnier@gmail.com</h3>
 <p align="left">
 </p>
 
