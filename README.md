@@ -1,15 +1,15 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=regismeyssonnier&label=Profile%20views&color=0e75b6&style=flat" alt="regismeyssonnier" /> </p>
 <h1 align="center">Hi 👋, I'm Régis Meyssonnier</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=regismeyssonnier&label=Profile%20views&color=0e75b6&style=flat" alt="regismeyssonnier" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regismeyssonnier" alt="regismeyssonnier" /></a> </p>
 
 - 🔭 I’m currently working on [Langage ЯRM](https://github.com/regismeyssonnier/Langage-RM)
 
 - 📫 How to reach me **regis.meyssonnier@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -19,4 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regismeyssonnier&show_icons=true&locale=en&layout=compact" alt="regismeyssonnier" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regismeyssonnier&show_icons=true&locale=en" alt="regismeyssonnier" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regismeyssonnier" alt="regismeyssonnier" /></a> </p>
 
