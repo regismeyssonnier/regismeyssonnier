@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on a lot of project( C++, ...)
 
 - 📫 How to reach me **regis.meyssonnier@gmail.com**
+- 😆 Follow me !!!! 
 
 
 <p align="left">
