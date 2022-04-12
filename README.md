@@ -13,6 +13,7 @@
 - 📫 How to reach me **regis.meyssonnier@gmail.com**
 - 😆 Follow me !!!! 
 
+
 I use often this languages. 🥇
 
 <h3 align="left">Languages:</h3>
@@ -40,13 +41,15 @@ I use often this languages. 🥇
    </td>
   </tr>
   </table>
+  
  
- I used Linux on my Laptop. #️⃣
+ I used Linux on my Laptop and Windows 10 on my PC. #️⃣
   
   <h3 align="left">System:</h3>
 
  <table><tr><td> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   </td></tr></table>
+  
   
   I use this tool to create web site. 🧔
 
@@ -73,6 +76,7 @@ I use often this languages. 🥇
   <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
  </td>
   <tr></table>
+  
   
   I use this software to create 3d game. 🎮
   
