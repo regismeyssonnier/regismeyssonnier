@@ -110,4 +110,4 @@ I use often this languages. 🥇
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=regismeyssonnier" alt="regismeyssonnier" /></a> </p></p>
 <br>
 <p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=regismeyssonnier" alt="regismeyssonnier"/></p>
-
+<p><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=regismeyssonnier" alt="regismeyssonnier"/></p>
