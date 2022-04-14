@@ -108,6 +108,6 @@ I use often this languages. 🥇
   
 <h3 align="left">Trophy:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=regismeyssonnier" alt="regismeyssonnier" /></a> </p></p>
-</center>
-
+<br>
+<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=regismeyssonnier" alt="regismeyssonnier"/></p>
 
