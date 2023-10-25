@@ -1,5 +1,5 @@
 
-<!--<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=regismeyssonnier" alt="regismeyssonnier"/></p>-->
+<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=regismeyssonnier" alt="regismeyssonnier"/></p>
 
 <p style="background-color:black;color:white;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regismeyssonnier&label=Profile%20views&color=0e75b6&style=flat" alt="regismeyssonnier" /> </p>
